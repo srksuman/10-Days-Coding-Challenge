@@ -22,3 +22,5 @@
 ## Calling Function 
 
     contributions(665)
+   # Output
+   ![enter image description here](https://i.imgur.com/KrTomA0.png)
